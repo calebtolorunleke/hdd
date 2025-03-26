@@ -1,0 +1,32 @@
+body{
+    background-color: f4f4f4;
+}
+
+/* 
+.profile-card{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin: auto;
+    border: 2px solid black;
+    width: 30%;
+} */
+ .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+ }
+
+ .counter-box{
+    display: flex;
+    gap: 10px;
+    font-size: 1.5em;
+ }
+
+ button{
+    padding: 10px;
+    font-size: 1.5em;
+ }
